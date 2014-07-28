@@ -1,4 +1,4 @@
-component
+vas-flake
 =========
 ###Usage
 
